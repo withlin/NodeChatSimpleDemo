@@ -1,11 +1,11 @@
-const 
+﻿const 
 	fs   = require('fs'),
 	url  = require('url'),
 	path = require('path'),
 	http = require('http'),
 	
 	hostname = '127.0.0.1',
-	port = 3000;
+	port = 4000;
 
 var defaultPage = ['index.html','default.html','index.htm','default.htm'];
 
